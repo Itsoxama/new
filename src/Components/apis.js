@@ -1,0 +1,1 @@
+export var tz='http://3.10.164.95:4001/api'
